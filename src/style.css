@@ -1,0 +1,74 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: lightblue;
+}
+
+label {
+    background-size: contain;
+    cursor: pointer;
+    size: 8px;
+    position: relative;
+    background: lightgray;
+    width: 350px;
+    border-radius: 0.5rem;
+    border-style: ridge;
+    border-spacing: initial;
+    align-content: space-between;
+    font-size: x-large;
+    font-family: sans-serif;
+    font-weight: 300;
+    color: hotpink;
+    display: initial;
+    position: relative;
+    list-style: auto;
+    border: 1px solid lightskyblue;
+    padding: 2px;
+}
+
+input[type="checkbox"] {
+    width: auto;
+    border-block: inherit;
+    size: 8px;
+    border-radius: inherit;
+    border-color: lightblue;
+    text-decoration: wavy;
+    font-size: 8px;
+    border: lightpink;
+}
+
+.text {
+    size: 8px;
+    text-align: center;
+    text-size-adjust: auto;
+}
+
+.text {
+    size: 8px;
+}
+
+div {
+    display: table;
+    padding: 3px;
+}
+
+input[type="checkbox"] {}
+
+button {
+    padding: 5px;
+    border-radius: inherit;
+}
+
+div {
+    font-size: x-large;
+}
+
+input[type="text"] {
+    font-size: x-large;
+}
+
+button {
+    font-size: inherit;
+}
